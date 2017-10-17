@@ -1,0 +1,8 @@
+title: Web Hero
+author: Hasan Yaseen
+email: bobtrack.v3@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Site for the Web Hero Traning Course
+
+sass:
+    style: compressed

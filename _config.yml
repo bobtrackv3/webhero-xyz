@@ -3,6 +3,6 @@ author: Hasan Yaseen
 email: bobtrack.v3@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Site for the Web Hero Traning Course
-
+google_analytics: UA-108258688-1
 sass:
     style: compressed
